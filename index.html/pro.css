@@ -248,7 +248,7 @@ body {
 
 /* ===== HOME SECTION ===== */
 .home-section {
-    padding-top: 220px;
+    padding-top: 220px 0 80px;
     min-height: 100vh;
     display: flex;
     align-items: center;
